@@ -1,2 +1,3 @@
-print("Hello World") #Hello world program
-  
+#Hello world program
+print("Hello all")
+print("Hello*World")
