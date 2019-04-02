@@ -1,0 +1,10 @@
+.vscode
+__pycache__
+Algorithms
+Assignments
+Django
+Operators
+Programs
+*.txt
+*.java
+*.c
